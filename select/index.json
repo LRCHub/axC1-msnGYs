@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Until You Die Out",
+  "base_artist": "Fear, and Loathing in Las Vegas",
+  "createdAt": "2025-12-04T14:41:42.560723Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Until You Die Out",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": false,
+      "path": "select/pl_01_Until_You_Die_Out_Fear,_and_Loathing_in_Las_Vegas.txt"
+    }
+  ]
+}
